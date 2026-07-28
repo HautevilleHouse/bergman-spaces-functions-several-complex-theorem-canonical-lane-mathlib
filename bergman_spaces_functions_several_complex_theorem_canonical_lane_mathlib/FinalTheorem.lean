@@ -1,0 +1,9 @@
+import bergman_spaces_functions_several_complex_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace bergman_spaces_functions_several_complex_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end bergman_spaces_functions_several_complex_theorem_canonical_lane_mathlib
+end HautevilleHouse
